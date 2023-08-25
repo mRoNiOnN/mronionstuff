@@ -15,6 +15,6 @@ h3 {
     font-size:medium;
     margin-top:20px;
 }
-.hiddenlink {
+.hiddenlink a{
     color: white;
 }
